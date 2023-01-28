@@ -1,0 +1,4 @@
+January 28, 2023:
+
+I just refreshed myself on using github pushing, merging, etc. I'm going to learn VS code (as opposed to VS studio)
+since I plan to use this primarily on studying JavaScript.
